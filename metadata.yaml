@@ -1,0 +1,38 @@
+_repo: Cuentos-y-cronicas-Obras-Completas-Vol-XIV_51627
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Ochoa, Enrique
+    alias: Ochoa, Enrique C.
+    gutenberg_agent_id: '44413'
+    url: http://www.gutenberg.org/2009/agents/44413
+creator:
+  author:
+    agent_name: Darío, Rubén
+    aliases:
+    - Sarmiento, Félix Rubén García
+    - Dario, Ruben
+    - Sarmiento, Felix Ruben Garcia
+    - García Sarmiento, Félix Rubén
+    birthdate: 1867
+    deathdate: 1916
+    gutenberg_agent_id: '31590'
+    url: http://www.gutenberg.org/2009/agents/31590
+    wikipedia: http://en.wikipedia.org/wiki/Rub%C3%A9n_Dar%C3%ADo
+description: ''
+gutenberg_issued: '2016-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51627'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nicaraguan literature'
+- !lcc 'PQ'
+- GITenberg
+title: 'Cuentos y crónicas
+
+  Obras Completas Vol. XIV'
+url: http://www.gutenberg.org/ebooks/51627
